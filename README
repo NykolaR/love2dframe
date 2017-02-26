@@ -1,0 +1,5 @@
+love2dframe
+
+Framework I begin with for producing LOVE2D games.
+
+Contains a file structure, input management, basic classes and logic.
